@@ -18,11 +18,11 @@
 	--text-xs: calc(0.75 * var(--text)); /* 12px */
 	--text-sm: calc(0.875 * var(--text)); /* 14px */
 	--text-base: calc(1 * var(--text)); /* 16px */
-	--text-md: calc(1.125 * var(--text)); /* 18px */
-	--text-lg: calc(1.5 * var(--text)); /* 24px */
-	--text-xl: calc(2 * var(--text)); /* 32px */
-	--text-2xl: calc(2.75 * var(--text)); /* 44px */
-	--text-3xl: calc(4 * var(--text)); /* 64px */
+	--text-lg: calc(1.125 * var(--text)); /* 18px */
+	--text-xl: calc(1.5 * var(--text)); /* 24px */
+	--text-2xl: calc(2 * var(--text)); /* 32px */
+	--text-3xl: calc(2.75 * var(--text)); /* 44px */
+	--text-4xl: calc(4 * var(--text)); /* 64px */
 
 	/* line heights */
 	--leading-label: 1.3;

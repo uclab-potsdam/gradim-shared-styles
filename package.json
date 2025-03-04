@@ -2,5 +2,10 @@
   "name": "gradim-shared-styles",
   "version": "0.0.1",
   "author": "UCLAB",
-  "main": "shared.css"
+  "main": "shared.css",
+  "files": [
+    "shared.css",
+    "fonts.css",
+    "fonts/"
+  ]
 }

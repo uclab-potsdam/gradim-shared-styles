@@ -33,7 +33,8 @@
 
 	/* font weights */
 	--weight-regular: 430;
-	--weight-bold: 650;
+	--weight-semibold: 600;
+	--weight-bold: 700;
 
 	/* line heights */
 	--leading-headline: 1.15;

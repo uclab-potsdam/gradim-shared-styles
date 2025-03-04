@@ -26,6 +26,7 @@
 	--text-5xl: calc(4.5 * var(--text)); /* 72px */
 
 	/* line heights */
+	--leading-headline: 1.15;
 	--leading-label: 1.3;
 	--leading-paragraph: 1.5;
 
